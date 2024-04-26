@@ -4,7 +4,7 @@
 
 Projeto construído atavés do site Frontend Mentor.
 
-[Clique aqui para acessar]([https://rsc.vitoriafonseca.pt/](https://testimonials-grid-section-ebon-eta.vercel.app/))
+[Clique aqui para acessar][https://rsc.vitoriafonseca.pt/](https://testimonials-grid-section-ebon-eta.vercel.app/)
 
 ## Tecnologias
 
