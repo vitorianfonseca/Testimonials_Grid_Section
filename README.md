@@ -1,11 +1,10 @@
 # Testimonials Grid Section
 
-
-![A174FF9C-6B8B-423E-A273-F3B1A96A6CF7_1_201_a](https://github.com/vitorianfonseca/Results-summary-component/assets/113269524/f3c3486d-9afb-4c5a-9610-6d63a0a5c4e8)
+![MacBook Pro-1714105801508](https://github.com/vitorianfonseca/Testimonials_Grid_Section/assets/113269524/74549d58-0f13-4375-9c0d-ee1d10ab804b)
 
 Projeto construído atavés do site Frontend Mentor.
 
-[Clique aqui para acessar](https://rsc.vitoriafonseca.pt/)
+[Clique aqui para acessar]([https://rsc.vitoriafonseca.pt/](https://testimonials-grid-section-ebon-eta.vercel.app/))
 
 ## Tecnologias
 
