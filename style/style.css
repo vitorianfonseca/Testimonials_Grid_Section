@@ -175,6 +175,10 @@ body {
     width: 97%;
 }
 
+.card3 p {
+    margin-top: 4.5rem;
+  }
+
 /* VERSAO2 */
 
 @media only screen and (max-width: 1200px) {
@@ -196,7 +200,13 @@ body {
             height: 70%;
             margin-top: -5rem;
         }
+
+        .card3 p {
+            margin-top: 2rem;
+          }
   }
+
+  
 
   @media only screen and (max-width: 450px) {
     .parent {
