@@ -176,7 +176,7 @@ body {
 
 /* VERSAO2 */
 
-@media only screen and (max-width: 908px) {
+@media only screen and (max-width: 1300px) {
     .parent {
         display: grid;
         grid-template-columns: repeat(8, 1fr);
