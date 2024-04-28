@@ -58,9 +58,10 @@ body {
 /* CARD3 */
 
 .card3 {
+    min-width: 14.4rem;
     border-radius: 0.5rem;
     background: #FFF;
-    height: 72%;
+    height: 74%;
     margin-top: 6rem;
 }
 
@@ -176,7 +177,7 @@ body {
 
 /* VERSAO2 */
 
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1200px) {
     .parent {
         display: grid;
         grid-template-columns: repeat(8, 1fr);
